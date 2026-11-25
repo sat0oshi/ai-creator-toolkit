@@ -1,0 +1,18 @@
+SITE IMMO VITRINE
+
+Contenu : index.html, 13 images WebP, 2 videos MP4, modules Three.js et leur licence.
+Le design et les contenus VILLA KREA sont conserves.
+
+UTILISATION
+Decompressez toute l'archive en conservant le dossier assets a cote de index.html.
+Pour l'hebergement, envoyez index.html et assets sur votre hebergeur statique.
+
+Pour tester sur votre ordinateur, lancez depuis le dossier extrait :
+python -m http.server 8000 --bind 127.0.0.1
+Puis ouvrez http://localhost:8000 dans votre navigateur.
+Python doit etre installe. Un serveur local comme Live Server fonctionne aussi.
+Un simple double-clic sur index.html peut bloquer les modules Three.js.
+
+Les polices Google Fonts necessitent Internet. Des polices de secours sont prevues.
+Les effets 3D necessitent WebGL 2. Une galerie de secours reste disponible sans WebGL.
+Le formulaire prepare un fichier de demande telechargeable ; l'envoi email n'est pas connecte.

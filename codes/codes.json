@@ -1,0 +1,1260 @@
+{
+ "images": [
+  {
+   "code": "/DRONEVIEW",
+   "category": "Camera & framing",
+   "en": "High aerial view, great for landscapes, architecture and wide spaces.",
+   "fr": "Crée une vue aérienne en hauteur, idéale pour paysages, architecture et grands espaces."
+  },
+  {
+   "code": "/TOPDOWN",
+   "category": "Camera & framing",
+   "en": "Camera straight above the subject for a graphic, readable composition.",
+   "fr": "Place la caméra directement au-dessus du sujet pour une composition graphique et lisible."
+  },
+  {
+   "code": "/BIRDSEYE",
+   "category": "Camera & framing",
+   "en": "Very high perspective that shows the subject inside its environment.",
+   "fr": "Donne une perspective très élevée qui montre le sujet dans son environnement."
+  },
+  {
+   "code": "/OVERHEAD",
+   "category": "Camera & framing",
+   "en": "Vertical framing, like a camera hanging right above the subject.",
+   "fr": "Cadre à la verticale du sujet, comme une caméra suspendue juste au-dessus."
+  },
+  {
+   "code": "/LOWANGLE",
+   "category": "Camera & framing",
+   "en": "Shot from below to make the subject look bigger and more powerful.",
+   "fr": "Cadre depuis le bas pour rendre le sujet plus imposant et plus puissant."
+  },
+  {
+   "code": "/HIGHANGLE",
+   "category": "Camera & framing",
+   "en": "Shot from above to add depth or make the subject feel smaller.",
+   "fr": "Cadre depuis le dessus pour créer de la profondeur ou diminuer visuellement le sujet."
+  },
+  {
+   "code": "/GROUNDLEVEL",
+   "category": "Camera & framing",
+   "en": "Lens almost at floor level for an immersive, dynamic look.",
+   "fr": "Place l’objectif presque au niveau du sol pour un rendu immersif et dynamique."
+  },
+  {
+   "code": "/EYELEVEL",
+   "category": "Camera & framing",
+   "en": "Natural camera height, close to how a person sees.",
+   "fr": "Utilise une hauteur de caméra naturelle, proche du regard humain."
+  },
+  {
+   "code": "/WORMSEYE",
+   "category": "Camera & framing",
+   "en": "Extreme low angle from the ground looking up.",
+   "fr": "Crée une contre-plongée extrême depuis le sol vers le haut."
+  },
+  {
+   "code": "/WIDEANGLE",
+   "category": "Camera & framing",
+   "en": "Wider field of view that shows more of the surroundings.",
+   "fr": "Élargit le champ pour montrer davantage d’environnement autour du sujet."
+  },
+  {
+   "code": "/CLOSEUP",
+   "category": "Camera & framing",
+   "en": "Tight framing on a face, a product or a key detail.",
+   "fr": "Cadre serré pour mettre l’accent sur le visage, le produit ou un détail clé."
+  },
+  {
+   "code": "/MACRO",
+   "category": "Camera & framing",
+   "en": "Tiny detail with lots of texture and very shallow depth of field.",
+   "fr": "Montre un détail minuscule avec beaucoup de texture et une très faible profondeur de champ."
+  },
+  {
+   "code": "/MEDIUMSHOT",
+   "category": "Camera & framing",
+   "en": "Mid-distance framing for portraits, fashion and conversations.",
+   "fr": "Cadre le sujet à mi-distance, utile pour portraits, mode et scènes conversationnelles."
+  },
+  {
+   "code": "/FULLBODY",
+   "category": "Camera & framing",
+   "en": "Whole subject from head to toe, with space around it.",
+   "fr": "Montre le sujet en entier, de la tête aux pieds, avec de l’espace autour."
+  },
+  {
+   "code": "/DUTCHANGLE",
+   "category": "Camera & framing",
+   "en": "Tilted horizon to create tension, speed or imbalance.",
+   "fr": "Incline l’horizon pour créer tension, vitesse ou sensation de déséquilibre."
+  },
+  {
+   "code": "/POV",
+   "category": "Camera & framing",
+   "en": "First-person view, the camera sits where the viewer would be.",
+   "fr": "Place la caméra à la place de l’utilisateur pour une vue à la première personne."
+  },
+  {
+   "code": "/FISHEYE",
+   "category": "Camera & framing",
+   "en": "Strong wide-angle distortion for an immersive, spectacular look.",
+   "fr": "Utilise une très forte déformation grand-angle pour un rendu immersif et spectaculaire."
+  },
+  {
+   "code": "/TELEPHOTO",
+   "category": "Camera & framing",
+   "en": "Compressed perspective that pulls the background closer.",
+   "fr": "Compresse la perspective et rapproche visuellement l’arrière-plan du sujet."
+  },
+  {
+   "code": "/ORBIT",
+   "category": "Camera & framing",
+   "en": "Dynamic 3/4 view that feels like the camera circles the subject.",
+   "fr": "Crée une vue 3/4 dynamique donnant l’impression que la caméra tourne autour du sujet."
+  },
+  {
+   "code": "/TRACKING",
+   "category": "Camera & framing",
+   "en": "Camera that follows a moving subject with energy and direction.",
+   "fr": "Suggère une caméra qui accompagne un sujet en mouvement avec énergie et direction."
+  },
+  {
+   "code": "/PACKSHOT",
+   "category": "Product & ad shots",
+   "en": "Clean, centered product photo ready for an e-commerce page.",
+   "fr": "Crée une photo produit propre, centrée et prête pour une fiche e-commerce."
+  },
+  {
+   "code": "/FRONTVIEW",
+   "category": "Product & ad shots",
+   "en": "Exact front face of the product or packaging.",
+   "fr": "Montre exactement la face avant du produit ou du packaging."
+  },
+  {
+   "code": "/THREEQUARTER",
+   "category": "Product & ad shots",
+   "en": "3/4 angle that shows both the front and the volume.",
+   "fr": "Utilise un angle 3/4 pour montrer simultanément la face et le volume du produit."
+  },
+  {
+   "code": "/SIDEVIEW",
+   "category": "Product & ad shots",
+   "en": "Side profile that reveals thickness and silhouette.",
+   "fr": "Montre le profil latéral du produit pour révéler épaisseur et silhouette."
+  },
+  {
+   "code": "/BACKVIEW",
+   "category": "Product & ad shots",
+   "en": "Back of the product or packaging.",
+   "fr": "Montre l’arrière du produit ou du packaging."
+  },
+  {
+   "code": "/ISOMETRIC",
+   "category": "Product & ad shots",
+   "en": "Clear, balanced isometric view of the product.",
+   "fr": "Présente le produit dans une vue isométrique claire et équilibrée."
+  },
+  {
+   "code": "/HEROSHOT",
+   "category": "Product & ad shots",
+   "en": "Turns the product into an iconic ad image with dramatic lighting.",
+   "fr": "Transforme le produit en image publicitaire iconique avec éclairage spectaculaire."
+  },
+  {
+   "code": "/REFLECTION",
+   "category": "Product & ad shots",
+   "en": "Controlled reflection under or around the product, premium studio look.",
+   "fr": "Ajoute un reflet contrôlé sous ou autour du produit pour un rendu studio premium."
+  },
+  {
+   "code": "/WETLOOK",
+   "category": "Product & ad shots",
+   "en": "Condensation, droplets or wet surfaces for freshness and intensity.",
+   "fr": "Ajoute condensation, gouttes ou surface humide pour communiquer fraîcheur et intensité."
+  },
+  {
+   "code": "/SPLASHSHOT",
+   "category": "Product & ad shots",
+   "en": "Product in the middle of a frozen liquid splash.",
+   "fr": "Mets le produit au centre d’une projection de liquide figée en mouvement."
+  },
+  {
+   "code": "/FLOATING",
+   "category": "Product & ad shots",
+   "en": "Product or accessories levitating in the scene.",
+   "fr": "Fait flotter le produit ou ses accessoires en suspension dans la scène."
+  },
+  {
+   "code": "/EXPLODEVIEW",
+   "category": "Product & ad shots",
+   "en": "Separates the product parts to show how it is built.",
+   "fr": "Sépare les différentes pièces du produit pour montrer sa construction."
+  },
+  {
+   "code": "/CUTAWAY",
+   "category": "Product & ad shots",
+   "en": "Cuts part of the object open to show what is inside.",
+   "fr": "Découpe visuellement une partie de l’objet pour montrer ce qui se trouve à l’intérieur."
+  },
+  {
+   "code": "/X-RAY",
+   "category": "Product & ad shots",
+   "en": "Translucent shell that reveals the internal components.",
+   "fr": "Rend l’enveloppe extérieure translucide afin de révéler les composants internes."
+  },
+  {
+   "code": "/SHADOWPLAY",
+   "category": "Product & ad shots",
+   "en": "Graphic shadows as the main element of the ad composition.",
+   "fr": "Utilise des ombres graphiques comme élément principal de composition publicitaire."
+  },
+  {
+   "code": "/BACKLIGHT",
+   "category": "Product & ad shots",
+   "en": "Light behind the product for halo, silhouette and contrast.",
+   "fr": "Place la source lumineuse derrière le produit pour créer halo, silhouette et contraste."
+  },
+  {
+   "code": "/GLOW",
+   "category": "Product & ad shots",
+   "en": "Controlled glow around the product to lift it off the background.",
+   "fr": "Ajoute un halo lumineux contrôlé autour du produit pour le détacher du fond."
+  },
+  {
+   "code": "/METAADS",
+   "category": "Product & ad shots",
+   "en": "Ad visual built for Meta: product, benefit, text space and CTA.",
+   "fr": "Compose un visuel publicitaire pensé pour Meta : produit, bénéfice, espace texte et CTA."
+  },
+  {
+   "code": "/BILLBOARD",
+   "category": "Product & ad shots",
+   "en": "Turns a product idea into a large-format billboard campaign.",
+   "fr": "Transforme une idée produit en campagne d’affichage grand format spectaculaire."
+  },
+  {
+   "code": "/PRODUCTINUSE",
+   "category": "Product & ad shots",
+   "en": "Shows the product actually being used, in its natural context.",
+   "fr": "Montre le produit réellement utilisé par une personne ou dans son contexte naturel."
+  },
+  {
+   "code": "/BLUEPRINT",
+   "category": "Technical & explainers",
+   "en": "Blue technical plan with white lines and annotations.",
+   "fr": "Transforme le sujet en plan technique bleu avec traits blancs et annotations."
+  },
+  {
+   "code": "/SCHEMATIC",
+   "category": "Technical & explainers",
+   "en": "Functional diagram showing connections, flows or components.",
+   "fr": "Crée un schéma fonctionnel montrant connexions, flux ou composants."
+  },
+  {
+   "code": "/WIREFRAME",
+   "category": "Technical & explainers",
+   "en": "Shows only the mesh or 3D edges of the subject.",
+   "fr": "Affiche uniquement le maillage ou les arêtes 3D du sujet."
+  },
+  {
+   "code": "/ORTHOGRAPHIC",
+   "category": "Technical & explainers",
+   "en": "Aligned views (front, side, top) with no perspective.",
+   "fr": "Présente plusieurs vues alignées : face, profil, dessus, sans perspective."
+  },
+  {
+   "code": "/CROSSSECTION",
+   "category": "Technical & explainers",
+   "en": "Clean cross-section that reveals the inside of an object or space.",
+   "fr": "Crée une coupe transversale nette pour révéler l’intérieur d’un objet ou d’un espace."
+  },
+  {
+   "code": "/CAD",
+   "category": "Technical & explainers",
+   "en": "Precise, industrial computer-aided design render.",
+   "fr": "Donne un rendu de conception assistée par ordinateur, précis et industriel."
+  },
+  {
+   "code": "/TECHNICALDRAWING",
+   "category": "Technical & explainers",
+   "en": "Technical drawing with lines, measurements and standard views.",
+   "fr": "Crée un dessin technique avec lignes, mesures, repères et vues normalisées."
+  },
+  {
+   "code": "/PATENTDRAWING",
+   "category": "Technical & explainers",
+   "en": "Looks like a patent sheet: black lines, numbers and labels.",
+   "fr": "Imite une planche de brevet en traits noirs, numéros et légendes."
+  },
+  {
+   "code": "/ANNOTATED",
+   "category": "Technical & explainers",
+   "en": "Adds arrows, labels and markers to explain the key parts.",
+   "fr": "Ajoute flèches, labels et repères pour expliquer les parties importantes d’une image."
+  },
+  {
+   "code": "/DIAGRAM",
+   "category": "Technical & explainers",
+   "en": "Turns an explanation into a clear, hierarchical visual diagram.",
+   "fr": "Transforme une explication en diagramme visuel clair et hiérarchisé."
+  },
+  {
+   "code": "/INFOGRAPHIC",
+   "category": "Technical & explainers",
+   "en": "Organizes facts, numbers and steps into a readable infographic.",
+   "fr": "Organise informations, chiffres et étapes dans une infographie lisible."
+  },
+  {
+   "code": "/FLOWCHART",
+   "category": "Technical & explainers",
+   "en": "Flowchart with steps, decisions and arrows.",
+   "fr": "Crée un organigramme avec étapes, décisions et flèches."
+  },
+  {
+   "code": "/MINDMAP",
+   "category": "Technical & explainers",
+   "en": "Organizes a topic around a center with branches and sub-topics.",
+   "fr": "Organise un sujet autour d’un centre avec branches et sous-thèmes."
+  },
+  {
+   "code": "/ANATOMY",
+   "category": "Technical & explainers",
+   "en": "Breaks a subject into labeled parts, like an anatomy plate.",
+   "fr": "Décompose un sujet en parties identifiées, comme une planche anatomique."
+  },
+  {
+   "code": "/LAYERS",
+   "category": "Technical & explainers",
+   "en": "Visually separates the layers of an object, material or system.",
+   "fr": "Sépare visuellement les couches d’un objet, d’un matériau ou d’un système."
+  },
+  {
+   "code": "/PHOTOREALISTIC",
+   "category": "Render & style",
+   "en": "Believable photographic render with real materials, light and flaws.",
+   "fr": "Vise un rendu photographique crédible avec matières, lumière et imperfections réalistes."
+  },
+  {
+   "code": "/HYPERREAL",
+   "category": "Render & style",
+   "en": "Pushes detail, texture and contrast beyond a normal photo.",
+   "fr": "Pousse le détail, les textures et le contraste au-delà d’une photo classique."
+  },
+  {
+   "code": "/CINEMATIC",
+   "category": "Render & style",
+   "en": "Framing, light, depth and color grading inspired by cinema.",
+   "fr": "Applique cadrage, lumière, profondeur et colorimétrie inspirés du cinéma."
+  },
+  {
+   "code": "/EDITORIAL",
+   "category": "Render & style",
+   "en": "Magazine look: strong composition, styling and art direction.",
+   "fr": "Crée un rendu de magazine : composition forte, stylisme et direction artistique."
+  },
+  {
+   "code": "/LUXURY",
+   "category": "Render & style",
+   "en": "Premium codes: noble materials, negative space, controlled light.",
+   "fr": "Utilise des codes premium : matières nobles, espace négatif, lumière maîtrisée."
+  },
+  {
+   "code": "/MINIMALIST",
+   "category": "Render & style",
+   "en": "A few strong elements and lots of negative space.",
+   "fr": "Réduit la scène à quelques éléments forts avec beaucoup d’espace négatif."
+  },
+  {
+   "code": "/VINTAGE",
+   "category": "Render & style",
+   "en": "Old-photo look with grain, faded colors and retro optics.",
+   "fr": "Recrée un rendu ancien avec grain, couleurs délavées et optique rétro."
+  },
+  {
+   "code": "/RETROFUTURISM",
+   "category": "Render & style",
+   "en": "The future as imagined by the past.",
+   "fr": "Mélange vision du futur et esthétique du passé."
+  },
+  {
+   "code": "/CYBERPUNK",
+   "category": "Render & style",
+   "en": "Neon, dense city, tech and dystopian night mood.",
+   "fr": "Utilise néons, densité urbaine, technologie et ambiance nocturne dystopique."
+  },
+  {
+   "code": "/SOLARPUNK",
+   "category": "Render & style",
+   "en": "Optimistic future mixing plants, clean energy and advanced architecture.",
+   "fr": "Crée un futur optimiste mêlant végétation, énergie propre et architecture avancée."
+  },
+  {
+   "code": "/ANIME",
+   "category": "Render & style",
+   "en": "Turns the scene into a Japanese animation style illustration.",
+   "fr": "Transforme la scène en illustration inspirée de l’animation japonaise."
+  },
+  {
+   "code": "/COMICBOOK",
+   "category": "Render & style",
+   "en": "Inking, halftones, contrast and comic book composition.",
+   "fr": "Applique encrage, trames, contrastes et composition de bande dessinée."
+  },
+  {
+   "code": "/PIXELART",
+   "category": "Render & style",
+   "en": "Pixel art with a limited palette and crisp edges.",
+   "fr": "Convertit le sujet en pixel art avec palette limitée et bords nets."
+  },
+  {
+   "code": "/WATERCOLOR",
+   "category": "Render & style",
+   "en": "Diluted pigments, visible paper and soft watercolor edges.",
+   "fr": "Imite pigments dilués, papier visible et contours doux d’une aquarelle."
+  },
+  {
+   "code": "/OILPAINTING",
+   "category": "Render & style",
+   "en": "Oil painting with texture, brush strokes and depth.",
+   "fr": "Crée une peinture à l’huile avec matière, coups de pinceau et profondeur."
+  },
+  {
+   "code": "/CLAYMATION",
+   "category": "Render & style",
+   "en": "Clay-like shapes with handmade texture and soft volume.",
+   "fr": "Transforme les formes en pâte à modeler avec texture artisanale et volume doux."
+  },
+  {
+   "code": "/LOWPOLY",
+   "category": "Render & style",
+   "en": "Shapes reduced to visible 3D geometric facets.",
+   "fr": "Réduit les formes en facettes géométriques 3D visibles."
+  },
+  {
+   "code": "/PAPERCRAFT",
+   "category": "Render & style",
+   "en": "Scene made of cut, folded and layered paper.",
+   "fr": "Crée une scène composée de papier découpé, plié et superposé."
+  },
+  {
+   "code": "/3DRENDER",
+   "category": "Render & style",
+   "en": "Clean 3D render with controlled materials, volume and light.",
+   "fr": "Produit un rendu 3D propre avec matériaux, volumes et éclairage contrôlés."
+  },
+  {
+   "code": "/LINEART",
+   "category": "Render & style",
+   "en": "Clean line drawing with no complex fills.",
+   "fr": "Réduit l’image à un dessin au trait clair, sans remplissage complexe."
+  },
+  {
+   "code": "/GOLDENHOUR",
+   "category": "Light & mood",
+   "en": "Warm, low light just after sunrise or before sunset.",
+   "fr": "Utilise la lumière chaude et rasante juste après le lever ou avant le coucher du soleil."
+  },
+  {
+   "code": "/BLUEHOUR",
+   "category": "Light & mood",
+   "en": "Soft blue mood right before sunrise or after sunset.",
+   "fr": "Crée l’ambiance bleutée douce située juste avant le lever ou après le coucher."
+  },
+  {
+   "code": "/NEONLIGHT",
+   "category": "Light & mood",
+   "en": "Colored neon light sources and saturated reflections.",
+   "fr": "Éclaire la scène avec sources néon colorées et reflets saturés."
+  },
+  {
+   "code": "/SOFTBOX",
+   "category": "Light & mood",
+   "en": "Wide, soft studio light with controlled shadows.",
+   "fr": "Imite une lumière studio large et douce avec ombres contrôlées."
+  },
+  {
+   "code": "/RIMLIGHT",
+   "category": "Light & mood",
+   "en": "Bright outline on the subject's edges to separate it from the background.",
+   "fr": "Ajoute un liseré lumineux sur les contours du sujet pour le séparer du fond."
+  },
+  {
+   "code": "/VOLUMETRIC",
+   "category": "Light & mood",
+   "en": "Visible light beams through haze, dust or smoke.",
+   "fr": "Ajoute des faisceaux visibles dans la brume, la poussière ou la fumée."
+  },
+  {
+   "code": "/HARDLIGHT",
+   "category": "Light & mood",
+   "en": "Hard source with crisp shadows and strong contrast.",
+   "fr": "Utilise une source dure créant ombres nettes et contraste fort."
+  },
+  {
+   "code": "/SOFTLIGHT",
+   "category": "Light & mood",
+   "en": "Diffuse, wrapping light for a soft, natural look.",
+   "fr": "Utilise une lumière diffuse et enveloppante pour un rendu doux et naturel."
+  },
+  {
+   "code": "/MOODY",
+   "category": "Light & mood",
+   "en": "Dark, contrasted, emotional atmosphere.",
+   "fr": "Crée une ambiance sombre, contrastée et émotionnelle."
+  },
+  {
+   "code": "/HIGHKEY",
+   "category": "Light & mood",
+   "en": "Very bright image with few shadows and a light background.",
+   "fr": "Produit une image très lumineuse avec peu d’ombres et un fond clair."
+  },
+  {
+   "code": "/LOWKEY",
+   "category": "Light & mood",
+   "en": "Dark image dominated by shadows with a few lit areas.",
+   "fr": "Produit une image sombre dominée par les ombres et quelques zones de lumière."
+  },
+  {
+   "code": "/SILHOUETTE",
+   "category": "Light & mood",
+   "en": "Subject as a dark readable shape against a light source.",
+   "fr": "Transforme le sujet en forme sombre lisible devant une source lumineuse."
+  },
+  {
+   "code": "/THUMBNAIL",
+   "category": "Formats & campaigns",
+   "en": "Thumbnail with a dominant subject, strong contrast and room for text.",
+   "fr": "Compose une miniature avec sujet dominant, contraste fort et zone de texte lisible."
+  },
+  {
+   "code": "/POSTER",
+   "category": "Formats & campaigns",
+   "en": "Vertical or movie poster with strong hierarchy and a title area.",
+   "fr": "Crée une affiche verticale ou cinéma avec hiérarchie forte et zone titre."
+  },
+  {
+   "code": "/ALBUMCOVER",
+   "category": "Formats & campaigns",
+   "en": "Square music cover with a strong visual identity.",
+   "fr": "Crée une pochette musicale carrée avec identité visuelle forte."
+  },
+  {
+   "code": "/MAGAZINECOVER",
+   "category": "Formats & campaigns",
+   "en": "Editorial cover with a central subject and space for headlines.",
+   "fr": "Compose une couverture éditoriale avec sujet central et espaces pour titres."
+  },
+  {
+   "code": "/STORYAD",
+   "category": "Formats & campaigns",
+   "en": "Vertical 9:16 ad built for Stories or Reels.",
+   "fr": "Cadre une publicité verticale 9:16 pensée pour Stories ou Reels."
+  },
+  {
+   "code": "/CAROUSEL",
+   "category": "Formats & campaigns",
+   "en": "Consistent visual direction for a series of social slides.",
+   "fr": "Définit une direction visuelle cohérente pour une série de slides sociales."
+  },
+  {
+   "code": "/UGCAD",
+   "category": "Formats & campaigns",
+   "en": "Native-looking, simple and believable ad in a user-generated style.",
+   "fr": "Crée une publicité à l’apparence native, simple et crédible, inspirée du contenu utilisateur."
+  },
+  {
+   "code": "/LUXURYAD",
+   "category": "Formats & campaigns",
+   "en": "Premium ad with luxury art direction and negative space.",
+   "fr": "Compose une publicité premium avec direction artistique luxe et espace négatif."
+  },
+  {
+   "code": "/FOODAD",
+   "category": "Formats & campaigns",
+   "en": "Food or drink staged with appetite appeal, texture and commercial light.",
+   "fr": "Met en scène nourriture ou boisson avec appétence, texture et éclairage commercial."
+  },
+  {
+   "code": "/FASHIONAD",
+   "category": "Formats & campaigns",
+   "en": "Fashion campaign with styling, pose, set and editorial light.",
+   "fr": "Crée une campagne mode avec stylisme, pose, décor et lumière éditoriale."
+  },
+  {
+   "code": "/ECOMMERCE",
+   "category": "Formats & campaigns",
+   "en": "Catalog-ready image: clear product, clean background, readable proportions.",
+   "fr": "Optimise l’image pour catalogue : produit clair, fond propre, proportions lisibles."
+  },
+  {
+   "code": "/TRANSPARENTBG",
+   "category": "Formats & campaigns",
+   "en": "Isolated subject with no set, made for a transparent background export.",
+   "fr": "Demande un sujet isolé sans décor, pensé pour export avec fond transparent."
+  }
+ ],
+ "chatgpt": [
+  {
+   "code": "/ELI5",
+   "category": "Clarity & length",
+   "en": "Explains a topic as simply as possible, no jargon, easy examples.",
+   "fr": "Simplifie un sujet au maximum, sans jargon, avec des exemples faciles à visualiser."
+  },
+  {
+   "code": "/TLDR",
+   "category": "Clarity & length",
+   "en": "Condenses a long text into a few key ideas.",
+   "fr": "Condense un texte long en quelques idées clés."
+  },
+  {
+   "code": "/BRIEFLY",
+   "category": "Clarity & length",
+   "en": "Forces a very short answer with only the essentials.",
+   "fr": "Force une réponse très courte qui ne garde que l’essentiel."
+  },
+  {
+   "code": "/EXEC SUMMARY",
+   "category": "Clarity & length",
+   "en": "Decision-oriented executive summary for a busy leader.",
+   "fr": "Produit un résumé exécutif orienté décision, adapté à un dirigeant."
+  },
+  {
+   "code": "/HUMANIZE",
+   "category": "Clarity & length",
+   "en": "Makes a text sound more natural, fluid and less robotic.",
+   "fr": "Rend un texte plus naturel, fluide et moins robotique."
+  },
+  {
+   "code": "/JARGONIZE",
+   "category": "Clarity & length",
+   "en": "Raises the technical level and uses industry vocabulary.",
+   "fr": "Augmente le niveau technique et utilise le vocabulaire du secteur."
+  },
+  {
+   "code": "/STEP-BY-STEP",
+   "category": "Clarity & length",
+   "en": "Breaks a method or solution into clear, ordered steps.",
+   "fr": "Découpe une méthode ou une solution en étapes claires et ordonnées."
+  },
+  {
+   "code": "/CHECKLIST",
+   "category": "Clarity & length",
+   "en": "Turns an answer into a list of checkable actions.",
+   "fr": "Transforme une réponse en liste d’actions vérifiables."
+  },
+  {
+   "code": "/EXAMPLES",
+   "category": "Clarity & length",
+   "en": "Asks for several concrete examples instead of abstract talk.",
+   "fr": "Demande plusieurs exemples concrets au lieu d’une explication abstraite."
+  },
+  {
+   "code": "/ANALOGY",
+   "category": "Clarity & length",
+   "en": "Explains an idea by comparing it to something familiar.",
+   "fr": "Explique une idée en la comparant à quelque chose de familier."
+  },
+  {
+   "code": "/NO-FLUFF",
+   "category": "Clarity & length",
+   "en": "Removes useless intros, repetition and empty sentences.",
+   "fr": "Supprime les introductions inutiles, répétitions et phrases creuses."
+  },
+  {
+   "code": "/KEY TAKEAWAYS",
+   "category": "Clarity & length",
+   "en": "Extracts only the most important lessons.",
+   "fr": "Extrait uniquement les enseignements les plus importants."
+  },
+  {
+   "code": "/ONE-LINER",
+   "category": "Clarity & length",
+   "en": "Sums up an idea in one strong sentence.",
+   "fr": "Résume une idée en une seule phrase forte."
+  },
+  {
+   "code": "/ACTIONABLE",
+   "category": "Clarity & length",
+   "en": "Converts an analysis into concrete actions to run.",
+   "fr": "Convertit une analyse en actions concrètes à exécuter."
+  },
+  {
+   "code": "/WHAT MATTERS",
+   "category": "Clarity & length",
+   "en": "Isolates what actually moves the result.",
+   "fr": "Isole les éléments qui ont réellement un impact sur le résultat."
+  },
+  {
+   "code": "/ACT AS",
+   "category": "Role & tone",
+   "en": "Makes ChatGPT answer from a specific role or expertise.",
+   "fr": "Fait répondre ChatGPT depuis un rôle ou une expertise précise."
+  },
+  {
+   "code": "/AUDIENCE",
+   "category": "Role & tone",
+   "en": "Adapts complexity and references to the target audience.",
+   "fr": "Adapte la complexité et les références au public visé."
+  },
+  {
+   "code": "/TONE",
+   "category": "Role & tone",
+   "en": "Sets the emotional or professional tone of the answer.",
+   "fr": "Fixe le ton émotionnel ou professionnel de la réponse."
+  },
+  {
+   "code": "/STYLE",
+   "category": "Role & tone",
+   "en": "Imposes style traits without changing the substance.",
+   "fr": "Impose des caractéristiques de style sans changer le fond."
+  },
+  {
+   "code": "/VOICE",
+   "category": "Role & tone",
+   "en": "Defines a consistent editorial voice.",
+   "fr": "Définit une voix éditoriale cohérente."
+  },
+  {
+   "code": "/EXPERT MODE",
+   "category": "Role & tone",
+   "en": "In-depth answer with nuance, limits and precise vocabulary.",
+   "fr": "Demande une réponse approfondie avec nuances, limites et vocabulaire précis."
+  },
+  {
+   "code": "/BEGINNER MODE",
+   "category": "Role & tone",
+   "en": "Explains from zero, assuming little prior knowledge.",
+   "fr": "Explique depuis zéro en supposant peu de connaissances préalables."
+  },
+  {
+   "code": "/FORMALIZE",
+   "category": "Role & tone",
+   "en": "Makes a text more professional and formal.",
+   "fr": "Rend un texte plus professionnel et formel."
+  },
+  {
+   "code": "/CASUALIZE",
+   "category": "Role & tone",
+   "en": "Makes a text more conversational and relaxed.",
+   "fr": "Rend un texte plus conversationnel et détendu."
+  },
+  {
+   "code": "/PERSUASIVE",
+   "category": "Role & tone",
+   "en": "Rewrites with stronger arguments and more conviction.",
+   "fr": "Réécrit avec davantage d’argumentation et de force de conviction."
+  },
+  {
+   "code": "/EMPATHETIC",
+   "category": "Role & tone",
+   "en": "Rewords to acknowledge the reader's concerns.",
+   "fr": "Adapte la formulation pour reconnaître les préoccupations du lecteur."
+  },
+  {
+   "code": "/DIRECT",
+   "category": "Role & tone",
+   "en": "Straight to the point, with clear, prioritized recommendations.",
+   "fr": "Va droit au point, avec recommandations nettes et priorisées."
+  },
+  {
+   "code": "/STORYTELLING",
+   "category": "Role & tone",
+   "en": "Turns an idea into a story with tension, progression and payoff.",
+   "fr": "Transforme une idée en narration avec tension, progression et résolution."
+  },
+  {
+   "code": "/CONTRARIAN",
+   "category": "Role & tone",
+   "en": "Explores the opposite argument or a non-consensus view.",
+   "fr": "Explore l’argument opposé ou une lecture non consensuelle."
+  },
+  {
+   "code": "/NEUTRAL",
+   "category": "Role & tone",
+   "en": "Removes promotional or emotional tone, back to plain facts.",
+   "fr": "Retire le ton promotionnel ou émotionnel et revient à une formulation factuelle."
+  },
+  {
+   "code": "/FORMAT AS",
+   "category": "Output format",
+   "en": "Forces a precise output format.",
+   "fr": "Impose un format de sortie précis."
+  },
+  {
+   "code": "/TABLE",
+   "category": "Output format",
+   "en": "Puts the information in columns for quick comparison.",
+   "fr": "Présente les informations en colonnes pour comparer rapidement."
+  },
+  {
+   "code": "/BULLETS",
+   "category": "Output format",
+   "en": "Returns a concise bullet list.",
+   "fr": "Retourne une liste à puces concise."
+  },
+  {
+   "code": "/NUMBERED",
+   "category": "Output format",
+   "en": "Returns a numbered list in logical order.",
+   "fr": "Retourne une liste numérotée dans un ordre logique."
+  },
+  {
+   "code": "/JSON",
+   "category": "Output format",
+   "en": "Structures the result as reusable JSON.",
+   "fr": "Structure le résultat en JSON réutilisable."
+  },
+  {
+   "code": "/CSV",
+   "category": "Output format",
+   "en": "Rows and columns you can paste into a spreadsheet.",
+   "fr": "Organise la sortie en lignes/colonnes séparables pour un tableur."
+  },
+  {
+   "code": "/MARKDOWN",
+   "category": "Output format",
+   "en": "Clean formatting with headings, lists and blocks.",
+   "fr": "Formate la réponse proprement avec titres, listes et blocs."
+  },
+  {
+   "code": "/OUTLINE",
+   "category": "Output format",
+   "en": "Skeleton of a document, video or course.",
+   "fr": "Crée le squelette d’un document, d’une vidéo ou d’une formation."
+  },
+  {
+   "code": "/SCHEMA",
+   "category": "Output format",
+   "en": "Defines a data, information or project structure.",
+   "fr": "Définit une structure de données, d’information ou de projet."
+  },
+  {
+   "code": "/TEMPLATE",
+   "category": "Output format",
+   "en": "Reusable template with fields to fill in.",
+   "fr": "Produit un modèle réutilisable avec champs à compléter."
+  },
+  {
+   "code": "/FAQ",
+   "category": "Output format",
+   "en": "Turns the content into user-focused questions and answers.",
+   "fr": "Transforme le contenu en questions/réponses orientées utilisateur."
+  },
+  {
+   "code": "/BEGIN WITH / END WITH",
+   "category": "Output format",
+   "en": "Forces how the answer starts or ends.",
+   "fr": "Impose le début ou la fin de la réponse."
+  },
+  {
+   "code": "/LENGTH",
+   "category": "Output format",
+   "en": "Sets a target length so answers are not too short or too long.",
+   "fr": "Fixe une longueur cible pour éviter les réponses trop courtes ou trop longues."
+  },
+  {
+   "code": "/3 OPTIONS",
+   "category": "Output format",
+   "en": "Three genuinely different versions instead of one answer.",
+   "fr": "Demande trois versions vraiment différentes plutôt qu’une seule réponse."
+  },
+  {
+   "code": "/SUMMARY + NEXT STEPS",
+   "category": "Output format",
+   "en": "Summary plus immediate actions.",
+   "fr": "Combine synthèse et actions immédiates."
+  },
+  {
+   "code": "/SWOT",
+   "category": "Analysis & decisions",
+   "en": "Strengths, weaknesses, opportunities and threats.",
+   "fr": "Analyse forces, faiblesses, opportunités et menaces."
+  },
+  {
+   "code": "/COMPARE",
+   "category": "Analysis & decisions",
+   "en": "Compares several options on explicit criteria.",
+   "fr": "Compare plusieurs options selon des critères explicites."
+  },
+  {
+   "code": "/PROS & CONS",
+   "category": "Analysis & decisions",
+   "en": "Pros, cons and trade-offs of a decision.",
+   "fr": "Liste les avantages, inconvénients et compromis d’une décision."
+  },
+  {
+   "code": "/FIRST PRINCIPLES",
+   "category": "Analysis & decisions",
+   "en": "Starts from fundamental facts before rebuilding a solution.",
+   "fr": "Repart des faits fondamentaux avant de reconstruire une solution."
+  },
+  {
+   "code": "/PRE-MORTEM",
+   "category": "Analysis & decisions",
+   "en": "Assumes the project failed and looks for the likely causes upfront.",
+   "fr": "Suppose que le projet a échoué et cherche les causes probables en amont."
+  },
+  {
+   "code": "/POST-MORTEM",
+   "category": "Analysis & decisions",
+   "en": "Analyzes what happened after a result to learn from it.",
+   "fr": "Analyse ce qui s’est passé après un résultat pour tirer des leçons."
+  },
+  {
+   "code": "/ROOT CAUSE",
+   "category": "Analysis & decisions",
+   "en": "Looks for the root cause rather than the symptoms.",
+   "fr": "Cherche la cause racine plutôt que les symptômes."
+  },
+  {
+   "code": "/5 WHYS",
+   "category": "Analysis & decisions",
+   "en": "Chains 'why' questions to reach a deep cause.",
+   "fr": "Enchaîne les 'pourquoi' pour remonter à une cause profonde."
+  },
+  {
+   "code": "/PARETO",
+   "category": "Analysis & decisions",
+   "en": "Finds the 20% of actions likely to drive most of the result.",
+   "fr": "Cherche le 20 % d’actions susceptibles de produire l’essentiel du résultat."
+  },
+  {
+   "code": "/RISK MATRIX",
+   "category": "Analysis & decisions",
+   "en": "Ranks risks by probability and impact.",
+   "fr": "Classe les risques par probabilité et impact."
+  },
+  {
+   "code": "/IMPACT ANALYSIS",
+   "category": "Analysis & decisions",
+   "en": "Assesses direct and indirect consequences of a change.",
+   "fr": "Évalue les conséquences directes et indirectes d’un changement."
+  },
+  {
+   "code": "/PITFALLS",
+   "category": "Analysis & decisions",
+   "en": "Highlights common mistakes, blind spots and traps.",
+   "fr": "Met en évidence erreurs fréquentes, angles morts et pièges."
+  },
+  {
+   "code": "/BOTTLENECK",
+   "category": "Analysis & decisions",
+   "en": "Identifies the main constraint limiting the system.",
+   "fr": "Identifie la contrainte principale qui limite le système."
+  },
+  {
+   "code": "/STRESS TEST",
+   "category": "Analysis & decisions",
+   "en": "Tests an idea under hard or extreme conditions.",
+   "fr": "Teste une idée dans des conditions difficiles ou extrêmes."
+  },
+  {
+   "code": "/RED TEAM",
+   "category": "Analysis & decisions",
+   "en": "Actively attacks a plan's weaknesses like an opponent.",
+   "fr": "Cherche activement les faiblesses d’un plan comme un contradicteur."
+  },
+  {
+   "code": "/MULTI-PERSPECTIVE",
+   "category": "Analysis & decisions",
+   "en": "Looks at the same topic from several stakeholders.",
+   "fr": "Analyse le même sujet depuis plusieurs parties prenantes."
+  },
+  {
+   "code": "/SCENARIO PLANNING",
+   "category": "Analysis & decisions",
+   "en": "Builds several plausible futures and their implications.",
+   "fr": "Construit plusieurs futurs plausibles et leurs implications."
+  },
+  {
+   "code": "/DECISION MATRIX",
+   "category": "Analysis & decisions",
+   "en": "Scores options against weighted criteria.",
+   "fr": "Score plusieurs options selon des critères pondérés."
+  },
+  {
+   "code": "/PRIORITIZE",
+   "category": "Analysis & decisions",
+   "en": "Ranks actions by impact, effort, urgency or value.",
+   "fr": "Classe les actions selon impact, effort, urgence ou valeur."
+  },
+  {
+   "code": "/METRICS MODE",
+   "category": "Analysis & decisions",
+   "en": "Turns a strategy into measurable indicators and success thresholds.",
+   "fr": "Traduit une stratégie en indicateurs mesurables et seuils de réussite."
+  },
+  {
+   "code": "/FEYNMAN",
+   "category": "Learning",
+   "en": "Explains simply, spots the fuzzy parts, then rebuilds the explanation.",
+   "fr": "Explique simplement, détecte les zones floues puis reconstruit l’explication."
+  },
+  {
+   "code": "/SOCRATIC MODE",
+   "category": "Learning",
+   "en": "Teaches through questions instead of direct answers.",
+   "fr": "Guide l’apprentissage par questions plutôt que par réponse directe."
+  },
+  {
+   "code": "/CRASH COURSE",
+   "category": "Learning",
+   "en": "Condenses the essentials of a topic into a fast session.",
+   "fr": "Condense les bases essentielles d’un sujet en session rapide."
+  },
+  {
+   "code": "/MASTERCLASS",
+   "category": "Learning",
+   "en": "Structured, advanced explanation, like an intensive class.",
+   "fr": "Demande une explication structurée et avancée, comme un cours intensif."
+  },
+  {
+   "code": "/QUIZ ME",
+   "category": "Learning",
+   "en": "Tests your knowledge with progressive questions.",
+   "fr": "Teste les connaissances avec des questions progressives."
+  },
+  {
+   "code": "/DRILL",
+   "category": "Learning",
+   "en": "Targeted, repetitive exercises to practice.",
+   "fr": "Génère des exercices ciblés et répétitifs pour pratiquer."
+  },
+  {
+   "code": "/FLASHCARDS",
+   "category": "Learning",
+   "en": "Turns a topic into memorable question/answer cards.",
+   "fr": "Transforme un sujet en cartes question/réponse mémorisables."
+  },
+  {
+   "code": "/STUDY PLAN",
+   "category": "Learning",
+   "en": "Learning plan with progression and pace.",
+   "fr": "Crée un plan d’apprentissage avec progression et rythme."
+  },
+  {
+   "code": "/MEMORY AID",
+   "category": "Learning",
+   "en": "Mnemonics, acronyms or associations.",
+   "fr": "Crée moyens mnémotechniques, acronymes ou associations."
+  },
+  {
+   "code": "/LEVEL UP",
+   "category": "Learning",
+   "en": "Assesses your current level, then gives the next step.",
+   "fr": "Évalue un niveau actuel puis propose la prochaine marche à franchir."
+  },
+  {
+   "code": "/TEACH BACK",
+   "category": "Learning",
+   "en": "Asks you to explain, then corrects the gaps.",
+   "fr": "Demande à l’utilisateur d’expliquer puis corrige les lacunes."
+  },
+  {
+   "code": "/COMMON MISTAKES",
+   "category": "Learning",
+   "en": "Typical mistakes and how to avoid them.",
+   "fr": "Liste les erreurs typiques et comment les éviter."
+  },
+  {
+   "code": "/PM MODE",
+   "category": "Business modes",
+   "en": "Answers like a product/project manager: goal, scope, risks, steps.",
+   "fr": "Structure la réponse comme un product/project manager : objectif, scope, risques, étapes."
+  },
+  {
+   "code": "/CONSULTANT MODE",
+   "category": "Business modes",
+   "en": "Senior consultant analysis: diagnosis, options, recommendation.",
+   "fr": "Analyse comme un consultant senior : diagnostic, options, recommandation."
+  },
+  {
+   "code": "/CFO MODE",
+   "category": "Business modes",
+   "en": "Frames a decision through margin, cash, costs, ROI and financial risk.",
+   "fr": "Cadre une décision via marge, cash, coûts, ROI et risque financier."
+  },
+  {
+   "code": "/MARKETING MODE",
+   "category": "Business modes",
+   "en": "Positioning, audience, channel, message and acquisition.",
+   "fr": "Analyse positionnement, audience, canal, message et acquisition."
+  },
+  {
+   "code": "/SALES MODE",
+   "category": "Business modes",
+   "en": "Qualification, objections, value proposition and closing.",
+   "fr": "Travaille qualification, objections, proposition de valeur et closing."
+  },
+  {
+   "code": "/COPY CHIEF",
+   "category": "Business modes",
+   "en": "Critiques, then improves sales copy with editorial standards.",
+   "fr": "Critique puis améliore un texte de vente avec exigence éditoriale."
+  },
+  {
+   "code": "/ICP",
+   "category": "Business modes",
+   "en": "Defines the most profitable, easiest-to-reach ideal customer.",
+   "fr": "Définit le profil client idéal le plus rentable et le plus facile à atteindre."
+  },
+  {
+   "code": "/CUSTOMER PERSONA",
+   "category": "Business modes",
+   "en": "Customer portrait: context, pains, desires, objections, language.",
+   "fr": "Crée un portrait client : contexte, douleurs, désirs, objections, langage."
+  },
+  {
+   "code": "/JTBD",
+   "category": "Business modes",
+   "en": "Job-to-be-done: what the customer is really trying to achieve.",
+   "fr": "Analyse le 'job to be done' : ce que le client essaie réellement d’accomplir."
+  },
+  {
+   "code": "/AIDA",
+   "category": "Business modes",
+   "en": "Structures a message as Attention, Interest, Desire, Action.",
+   "fr": "Structure un message en Attention, Intérêt, Désir, Action."
+  },
+  {
+   "code": "/PAS",
+   "category": "Business modes",
+   "en": "Structures a message as Problem, Agitation, Solution.",
+   "fr": "Structure un message en Problème, Agitation, Solution."
+  },
+  {
+   "code": "/OFFER AUDIT",
+   "category": "Business modes",
+   "en": "Rates promise, target, price, proof, friction and differentiation.",
+   "fr": "Évalue promesse, cible, prix, preuve, friction et différenciation."
+  },
+  {
+   "code": "/FUNNEL AUDIT",
+   "category": "Business modes",
+   "en": "Finds the leaks between acquisition, activation, conversion and retention.",
+   "fr": "Cherche les fuites entre acquisition, activation, conversion et rétention."
+  },
+  {
+   "code": "/CONTENT ANGLES",
+   "category": "Business modes",
+   "en": "Different editorial angles on the same topic.",
+   "fr": "Génère des angles éditoriaux différents autour d’un même sujet."
+  },
+  {
+   "code": "/HOOKS",
+   "category": "Business modes",
+   "en": "Several hooks designed to stop the scroll.",
+   "fr": "Génère plusieurs accroches conçues pour stopper le scroll."
+  },
+  {
+   "code": "/DEV MODE",
+   "category": "Dev",
+   "en": "Technical answer with implementation, assumptions and useful details.",
+   "fr": "Demande une réponse technique avec implémentation, hypothèses et détails utiles au développement."
+  },
+  {
+   "code": "/DEBUG",
+   "category": "Dev",
+   "en": "Analyzes an error, lists likely causes, then a testable fix.",
+   "fr": "Analyse une erreur, propose les causes probables puis un correctif testable."
+  },
+  {
+   "code": "/CODE REVIEW",
+   "category": "Dev",
+   "en": "Reviews readability, bugs, architecture, performance and security.",
+   "fr": "Passe en revue lisibilité, bugs, architecture, performance et sécurité."
+  },
+  {
+   "code": "/TEST CASES",
+   "category": "Dev",
+   "en": "Normal, edge and expected-error test cases.",
+   "fr": "Génère des cas de test normaux, limites et erreurs attendues."
+  },
+  {
+   "code": "/EDGE CASES",
+   "category": "Dev",
+   "en": "Finds rare cases that could break the logic.",
+   "fr": "Cherche les cas rares susceptibles de casser une logique."
+  },
+  {
+   "code": "/REQUIRES SOURCES",
+   "category": "Reliability & prompt structure",
+   "en": "Separates verifiable claims and sources them when search is available.",
+   "fr": "Demande de distinguer les affirmations vérifiables et de les sourcer lorsque la recherche est disponible."
+  },
+  {
+   "code": "/FACT CHECK",
+   "category": "Reliability & prompt structure",
+   "en": "Checks a list of claims and flags what is uncertain or false.",
+   "fr": "Vérifie une série d’affirmations, signale ce qui est incertain ou faux."
+  },
+  {
+   "code": "/EVIDENCE ONLY",
+   "category": "Reliability & prompt structure",
+   "en": "Separates supported facts, assumptions and unknowns.",
+   "fr": "Demande de séparer faits étayés, hypothèses et inconnues."
+  },
+  {
+   "code": "/ROLE:TASK:FORMAT",
+   "category": "Reliability & prompt structure",
+   "en": "Condenses a brief into role, task and expected format.",
+   "fr": "Condense un brief en rôle, tâche et format attendu."
+  },
+  {
+   "code": "/CONTEXT",
+   "category": "Reliability & prompt structure",
+   "en": "Adds the context the task needs before starting.",
+   "fr": "Ajoute le contexte indispensable avant la tâche."
+  },
+  {
+   "code": "/CONSTRAINTS",
+   "category": "Reliability & prompt structure",
+   "en": "Sets real limits: budget, time, tools, tone, length, exclusions.",
+   "fr": "Impose les limites réelles : budget, temps, outils, ton, longueur, exclusions."
+  },
+  {
+   "code": "/GUARDRAIL",
+   "category": "Reliability & prompt structure",
+   "en": "Sets concrete, checkable output rules.",
+   "fr": "Fixe des règles de sortie concrètes et vérifiables."
+  },
+  {
+   "code": "/3-PASS ANALYSIS",
+   "category": "Reliability & prompt structure",
+   "en": "Three passes: overview, structured analysis, final synthesis.",
+   "fr": "Traite un sujet en trois passes : vue d’ensemble, analyse structurée, synthèse finale."
+  },
+  {
+   "code": "/REFLECTIVE MODE",
+   "category": "Reliability & prompt structure",
+   "en": "Short critique of its own answer, then an improved version.",
+   "fr": "Demande une critique concise de la réponse produite puis une amélioration."
+  },
+  {
+   "code": "/SYSTEMATIC BIAS CHECK",
+   "category": "Reliability & prompt structure",
+   "en": "Looks for hidden assumptions, selection bias and blind spots.",
+   "fr": "Cherche hypothèses implicites, biais de sélection et angles morts."
+  },
+  {
+   "code": "/ASSUMPTIONS",
+   "category": "Reliability & prompt structure",
+   "en": "Lists the assumptions a recommendation relies on.",
+   "fr": "Liste les hypothèses sur lesquelles repose une recommandation."
+  },
+  {
+   "code": "/TRADE-OFFS",
+   "category": "Reliability & prompt structure",
+   "en": "Shows the trade-offs instead of selling one option as perfect.",
+   "fr": "Expose les compromis au lieu de présenter une option comme parfaite."
+  },
+  {
+   "code": "/SELF-CHECK",
+   "category": "Reliability & prompt structure",
+   "en": "Final check: consistency, gaps, math and constraints.",
+   "fr": "Demande un contrôle final : cohérence, oublis, calculs et respect des contraintes."
+  }
+ ]
+}
